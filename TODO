@@ -1,0 +1,58 @@
+Specifiers:
+	x: Documents are not planned to be prepared, ignored.
+	n: Documents cannot be prepared. 
+	b: Documents are planned to be prepared, won't cover the lecture fully.
+	p: Documents are planned to be prepared.
+	y: Documents are currently present.
+
+BEng. Program.
+	1st Semester:
+		p: Discrete Mathematics. (EEM105)
+		z: Intro. to Electrical-Electronics Eng. (EEM101)
+		p: Physics-I [Mechanics] (FIZ111)
+		p: Mathematics-I [Limits, Derivatives...] (MAT111)
+		p: Chemistry-I (KIM111)
+		x: General English (ING191)
+	2nd Semester:
+		x: Computer Programming (EEM106)
+		x: General Turkish (TUR102)
+		b: Linear Algebra (MAT114)
+		p: Electrical Materials (EEM102)
+		p: Physics-II [Electricty & Magnetism] (FIZ112)
+		p: Mathematics-II [Integrals] (MAT112)
+	3rd Semester:
+		p: Theory of Electromagnetic Fields (EEM203)
+		p: Circuit Analysis-I (EEM205)
+		p: Theory of Complex Variables (EEM207)
+		x: Engineering Economics (EEM209)
+		x: Occupational English-I (EEM291)
+		p: Differential Equations (MAT211)
+		x: Atatürk's Principles and History of Turkish Revolution (ATA201)
+
+Some common or substitute lectures between programs do exist. 
+Previously mentioned entries are marked with a 's'.
+
+BSci. Program.
+	1st Semester:
+		s: Chemisty-I (KIM111)
+		s: Mathematics-I [Limits, Derivatives...] (MAT111)
+		s: Physics-I [Mechanics] (FIZ111)
+		x: Physics Laboratory-I (FIZ103)
+		x: Introduction to University Life (UNI101)
+		s: General Turkish (TUR102)
+	2nd Semester:
+		s: General English (ING190)
+		s: Physics-II [Electricty & Magnetism] (FIZ132)
+		s: Mathematics-II [Integrals] (MAT112)
+		p: Optics (FIZ134)
+		p: Chemisty-II (KIM114)
+		x: Physics Laboratory-II (FIZ104)
+	3rd Semester:
+		s: Differential Equations (MAT231)
+		p: Mathematical Methods for Physics (FIZ233) *1
+		p: Statistical Physics and Thermodynamics (FIZ207)
+		x: Physics Laboratory-III (FIZ205)
+		x: Technical English (FIZ209)
+		s: Atatürk's Principles and History of Turkish Revolution (ATA201)
+
+1: Although substituted, lecture content varies enough for seperate documents.
