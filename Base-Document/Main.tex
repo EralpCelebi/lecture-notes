@@ -1,0 +1,79 @@
+\documentclass{report}
+
+\usepackage{tikz}
+\usepackage{float}
+\usepackage{cancel}
+\usepackage{amsmath}
+\usepackage{siunitx}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{graphics}
+\usepackage[colorlinks]{hyperref}
+\usepackage[margin=1cm]{geometry}
+\usepackage{pgfplots}
+\usepackage{circuitikz}
+\usepackage[utf8x]{inputenc}
+% \usepackage[turkish,shorthands=off]{babel}
+\usepackage[Glenn]{fncychap}
+
+\pgfplotsset{compat=newest}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,    
+    urlcolor=blue,
+    citecolor=gray,
+    pdfpagemode=FullScreen,
+}
+
+\geometry{
+	a4paper,
+	total={170mm,257mm},
+	left=20mm,
+	right=20mm,
+	top=20mm,
+	bottom=25mm,
+}
+
+\bibliographystyle{ieeetr}
+
+\author{Eralp Çelebi}
+
+\begin{document}	
+	\begin{titlepage}
+		\centering
+		
+		\hfill \includegraphics[width=75pt, keepaspectratio=true]{logo} \par
+		
+		\vspace{ 10 \baselineskip }
+		
+		{\huge Sakarya University}
+		
+		\vspace{ 4 \baselineskip }
+		
+		{\large BEng. Electrical-Electronics Engineering}
+		
+		\vspace{ 1 \baselineskip }
+		
+		{\large BSci. Physics}
+				
+		\vspace{ 4 \baselineskip }
+		
+		{\large Eralp Çelebi}
+		
+        \vfill
+		
+	\end{titlepage}
+	
+	\pagestyle{fancyplain}
+	\fancyhead{}
+	
+	\lfoot{Eralp Çelebi}
+	\rfoot{eralp.celebi.personal@gmail.com}
+	
+	\tableofcontents
+	\newpage
+	            
+    \bibliography{References}
+\end{document}
