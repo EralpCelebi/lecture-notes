@@ -3,6 +3,7 @@ Specifiers:
 	n: Documents cannot be prepared. 
 	b: Documents are planned to be prepared, won't cover the lecture fully.
 	p: Documents are planned to be prepared.
+	i: Documents are currently present although incomplete.
 	y: Documents are currently present.
 
 BEng. Program.
@@ -28,6 +29,12 @@ BEng. Program.
 		x: Occupational English-I (EEM291)
 		p: Differential Equations (MAT211)
 		x: Atatürk's Principles and History of Turkish Revolution (ATA201)
+	4th Semester:
+		p: Theory of Electromagnetic Waves (EEM204)
+		p: Circuit Analysis-II (EEM206)
+		p: Numerical Analysis (MAT216)
+		p: Probability & Statistics (IST204)
+		p: Laboratory-I (EEM220)
 
 Some common or substitute lectures between programs do exist. 
 Previously mentioned entries are marked with a 's'.
@@ -37,7 +44,7 @@ BSci. Program.
 		s: Chemisty-I (KIM111)
 		s: Mathematics-I [Limits, Derivatives...] (MAT111)
 		s: Physics-I [Mechanics] (FIZ111)
-		x: Physics Laboratory-I (FIZ103)
+		x: Laboratory-I (FIZ103)
 		x: Introduction to University Life (UNI101)
 		s: General Turkish (TUR102)
 	2nd Semester:
@@ -46,13 +53,20 @@ BSci. Program.
 		s: Mathematics-II [Integrals] (MAT112)
 		p: Optics (FIZ134)
 		p: Chemisty-II (KIM114)
-		x: Physics Laboratory-II (FIZ104)
+		x: Laboratory-II (FIZ104)
 	3rd Semester:
 		s: Differential Equations (MAT231)
 		p: Mathematical Methods for Physics (FIZ233) *1
 		p: Statistical Physics and Thermodynamics (FIZ207)
-		x: Physics Laboratory-III (FIZ205)
+		x: Laboratory-III (FIZ205)
 		x: Technical English (FIZ209)
 		s: Atatürk's Principles and History of Turkish Revolution (ATA201)
+	4th Semester:
+		p: Vibrations & Waves (FIZ210)
+		p: Classical Mechanics ()
+		p: Laboratory-IV (FIZ206)
+		p: Modern Physics ()
+		x: Basic Information Technologies ()
+
 
 1: Although substituted, lecture content varies enough for seperate documents.
